@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.microsoft.com	TRUE	/	FALSE	1999999999	MS-CV	pO4v84eVY06NpdPh.117
+www.microsoft.com	TRUE	/	FALSE	1999999999	samesite	None
+
